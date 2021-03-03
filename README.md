@@ -2,7 +2,7 @@
 
 ## 프로젝트 주제​
 
-통합계좌 관리 금융시스템입니다.​
+Repository ​
 
 ## 전체 설계도​
 
@@ -14,7 +14,7 @@
 
 발표 동영상입니다.​
 
-<iframe id="ytplayer" type="text/html" width="640" height="360" src="https://www.youtube.com/embed/reOGfxYJre0" frameborder="0"></iframe>​
+<iframe width="791" height="445" src="https://www.youtube.com/embed/nGacT5qru64" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Reference​
 
