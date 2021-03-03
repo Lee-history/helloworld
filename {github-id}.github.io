@@ -6,9 +6,9 @@
 
 ## 전체 설계도​
 
-<img src="architecture.png"/><br>​
+<img src="무징.jpg"/><br>​
 
-[발표자료](/project.pptx)<br>​
+[발표자료](/자기소개서_이어진.pptx)<br>​
 
 ## 발표 동영상​
 
